@@ -1,2 +1,2 @@
-# MCPBC-Solver_InstanceGenerator
+# MCPBC-Solver
 To add docu
